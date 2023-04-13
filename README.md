@@ -44,7 +44,7 @@ The notebooks are from the course Introduction to Machine Learning.
 -   Using basic algorithms like Logistic Regression gives about a 0.6 AUC score.
 -   Oversampling the minority class using SMOTE increases the accuracy to a 0.71 AUC score while using the Naive Bayes Classifier.
 
-## Unsupervised NYT articles clusterization by its author
+## Unsupervised NYT articles clusterization by its author - Clustering
 * demonstrates a very simple approach to clustering.
 * three random authors were selected, and 50 articles from each author were used.
 * the KMeans algorithm was used to group the articles.
